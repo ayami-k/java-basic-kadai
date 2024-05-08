@@ -11,7 +11,7 @@ public class KatoTaro_Chapter17 extends Kato_Chapter17 {
 		
 
 	//抽象メソッドの実装
-	void eachIntroduce() {
+	public void eachIntroduce() {
 		System.out.println("私はJavaが得意です");
 	}
 }

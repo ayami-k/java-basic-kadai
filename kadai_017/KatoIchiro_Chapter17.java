@@ -11,7 +11,7 @@ public class KatoIchiro_Chapter17 extends Kato_Chapter17 {
 			
 
 		//抽象メソッドの実装
-		void eachIntroduce() {
+		public void eachIntroduce() {
 			System.out.println("好きな食べ物はリンゴです");
 		}
 

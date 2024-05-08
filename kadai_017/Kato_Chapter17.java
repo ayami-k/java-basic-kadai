@@ -15,7 +15,7 @@ public abstract class Kato_Chapter17 {
 	}
 	
 	//個別の紹介を出力するメソッド(抽象メソッド)
-	abstract void eachIntroduce();
+	abstract public void eachIntroduce();
 	
 	//紹介を実行
 	public void execIntroduce() {
